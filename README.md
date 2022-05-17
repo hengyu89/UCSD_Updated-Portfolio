@@ -40,10 +40,10 @@ This webpage has some simple functions as below:
 ## Screenshot with three different widths.
 
 ### Screen<768px (Small Version)
-![This is the screenshot with "small" size that the width of screen is smaller than 768px](./assets/images/screenshot_small.png)
+![This is the screenshot with "small" size that the width of screen is smaller than 768px](./assets/img/screenshot_small.png)
 
 ### 768px < Screen < 992px (Middle Version)
-![This is the screenshot with "middle" size that the width of screen is between 768px and 992px](./assets/images/screenshot_middle.png)
+![This is the screenshot with "middle" size that the width of screen is between 768px and 992px](./assets/img/screenshot_middle.png)
 
 ### 992px < Screen (Large Version)
-![This is the screenshot with "middle" size that the width of screen is greater than 992px](./assets/images/screenshot_large.png)
+![This is the screenshot with "middle" size that the width of screen is greater than 992px](./assets/img/screenshot_large.png)
