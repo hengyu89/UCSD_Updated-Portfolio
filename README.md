@@ -9,6 +9,9 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
 
+## Link to the page
+https://hengyu89.github.io/UCSD_Updated-Portfolio/
+
 ## What I've done
 
 I followed the whole requirements in the assignment "README.md" file, and here are some typical details to explain.
